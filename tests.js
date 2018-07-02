@@ -1,3 +1,8 @@
+if (index.name1 === "Susan") {
+    console.log("The name is correct");
+} else {
+    console.log("Expected: Susan, Received: "+index.name);
+}
 
 
 
