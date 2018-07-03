@@ -1,4 +1,4 @@
-if (index.name === "Susan") {
+if (index.name === "Joe") {
     console.log("The name is correct")
 } else {
     console.log("Expected: Susan, Received: "+index.name)
